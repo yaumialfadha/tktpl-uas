@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "/home/yaumi/Android/Sdk/ndk/20.0.5594570/build/cmake/android.toolchain.cmake",
+    "/home/yaumi/Android/Sdk/ndk/20.0.5594570/build/cmake/platforms.cmake",
+    "/home/yaumi/Music/tktpl-tugas-akhir/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/yaumi/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/yaumi/Music/tktpl-tugas-akhir/app/.cxx/cmake/debug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/home/yaumi/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/yaumi/Music/tktpl-tugas-akhir/app/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-x86_64": {
+      "artifactName": "native-lib",
+      "buildCommand": "/home/yaumi/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/yaumi/Music/tktpl-tugas-akhir/app/.cxx/cmake/debug/x86_64\" native-lib",
+      "abi": "x86_64",
+      "output": "/home/yaumi/Music/tktpl-tugas-akhir/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so"
+    }
+  }
+}

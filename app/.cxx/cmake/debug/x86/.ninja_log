@@ -1,0 +1,5 @@
+# ninja log v5
+0	490	1610189259	CMakeFiles/native-lib.dir/native-lib.cpp.o	d292db4e9c68f58f
+490	561	1610189259	/home/yaumi/Music/tktpl-tugas-akhir/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	3ded2a3248a3b3c
+1	531	1610468491	CMakeFiles/native-lib.dir/native-lib.cpp.o	d292db4e9c68f58f
+531	600	1610468491	/home/yaumi/Music/tktpl-tugas-akhir/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	3ded2a3248a3b3c

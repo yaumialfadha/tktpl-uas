@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Easy Split Bill</string>
+    <string name="language">English</string>
+    <string name="action_settings">Settings</string>
+    <string name="recent_bills">Recent Bills</string>
+    <string name="due_bills">Due Bills</string>
+    <string name="view_more"><u>More</u></string>
+    <string name="alert_not_complete">Please fill all field</string>
+    <string name="bill_detail_header">Bill Detail By Person</string>
+    <string name="action_edit">Edit Bill</string>
+    <string name="action_delete">Delete Bill</string>
+    <string name="action_edit_bill_food">Edit Bill Foods</string>
+    <string name="alert_recent_bill_not_found">You dont have any bill, please create one</string>
+    <string name="alert_due_bill_not_found">You dont have due bills</string>
+    <string name="bill_detail">Bill Detail</string>
+    <string name="food_name">Food Name</string>
+    <string name="price">Price</string>
+    <string name="tax">Tax</string>
+    <string name="service">Service</string>
+    <string name="person">person</string>
+    <string name="alert_bill_detail_is_empty">This bill doesnt have any details</string>
+    <string name="tax_input">Tax (in percentage)</string>
+    <string name="bill_name">Bill Name</string>
+    <string name="service_fee_input">Service Fee (in percentage)</string>
+    <string name="due_date">Due Date</string>
+    <string name="action_edit_bill">Edit Bill Detail</string>
+    <string name="due_on">Due On: </string>
+    <string name="change_language">Change Language</string>
+    <string name="change_language_id">Change Language To Id</string>
+    <string name="notification_title">You have due bill for today!</string>
+    <string name="notification_body">Check your bills to see which one is due</string>
+    <string name="edit_food">Edit Food</string>
+    <string name="create_food">Add Food</string>
+    <string name="alert_foods_is_empty">You have yet to create food, click + button to create one</string>
+    <string name="create_bill">Create Bill</string>
+    <string name="total_price">Total Price:</string>
+    <string name="title_alert_rejected_contacts_permission">Do you really doesn\'t want to give permission to contacts?</string>
+    <string name="message_alert_rejected_contacts_permission">The contacts will be used for foods payer and it will make you fill the form faster!</string>
+    <string name="allow_permission">Allow Permission</string>
+    <string name="deny_permission">Deny Permission</string>
+    <string name="message_alert_network_connectivity">You can get fill form faster if you have internet because there will be so many food name reccomendations in the food name form!</string>
+    <string name="title_alert_network_connectivity">Do you want to activate wifi or packet data?</string>
+    <string name="activate_wifi">Activate Wifi</string>
+    <string name="activate_mobile">Activate Mobile Data</string>
+    <string name="cancel">Cancel</string>
+</resources>

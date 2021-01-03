@@ -1,0 +1,5 @@
+# ninja log v5
+0	753	1610189257	CMakeFiles/native-lib.dir/native-lib.cpp.o	cf8d67ed9f98c067
+753	813	1610189257	/home/yaumi/Music/tktpl-tugas-akhir/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	caf223c83bf990e6
+2	783	1610468489	CMakeFiles/native-lib.dir/native-lib.cpp.o	cf8d67ed9f98c067
+783	859	1610468489	/home/yaumi/Music/tktpl-tugas-akhir/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	caf223c83bf990e6

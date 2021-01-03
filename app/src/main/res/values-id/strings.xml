@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Easy Split Bill</string>
+    <string name="language">Bahasa Indonesia</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="recent_bills">Tagihan Terbaru</string>
+    <string name="due_bills">Tagihan Jatuh Tempo</string>
+    <string name="view_more"><u>Lihat Semua</u></string>
+    <string name="alert_not_complete">Tolong masukkan semua isian!</string>
+    <string name="bill_detail_header">Detail Bill Dari Setiap Orang</string>
+    <string name="action_edit">Edit Tagihan</string>
+    <string name="action_delete">Hapus Tagihan</string>
+    <string name="action_edit_bill_food">Edit Makanan dari Tagihan</string>
+    <string name="alert_recent_bill_not_found">Anda tidak memiliki tagihan</string>
+    <string name="alert_due_bill_not_found">Anda tidak memiliki tagihan yang jatuh tempo</string>
+    <string name="bill_detail">Detail Tagihan</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="price">Harga</string>
+    <string name="tax">Pajak</string>
+    <string name="service">Biaya layanan</string>
+    <string name="person">Orang</string>
+    <string name="alert_bill_detail_is_empty">Tagihan ini tidak memiliki makanan dan orang</string>
+    <string name="tax_input">Pajak (dalam persen)</string>
+    <string name="bill_name">Nama Tagihan</string>
+    <string name="service_fee_input">Biaya Layanan (dalam persen)</string>
+    <string name="due_date">Jatuh Tempo</string>
+    <string name="action_edit_bill">Edit Detail Tagihan</string>
+    <string name="due_on">Jatuh Tempo pada: </string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="change_language_id">Ganti Bahasa ke Id</string>
+    <string name="notification_title">Anda memiliki bill yang jatuh tempo pada hari ini!</string>
+    <string name="notification_body">Cek bill anda untuk melihat bill yang jatuh tempo</string>
+    <string name="edit_food">Edit Makanan</string>
+    <string name="create_food">Tambah Makanan</string>
+    <string name="alert_foods_is_empty">Tidak ada makanan yang dibuat untuk tagihan ini, klik + untuk menambah</string>
+    <string name="create_bill">Buat Tagihan</string>
+    <string name="total_price">Harga Total:</string>
+    <string name="title_alert_rejected_contacts_permission">Apakah anda benar-benar tidak ingin memberikan akses ke pada kontak?</string>
+    <string name="message_alert_rejected_contacts_permission">Akses ke kontak akan membuat pengisian pada nama pembeli makanan jadi lebih cepat dengan adanya rekomendasi pada input pengisiannya!</string>
+    <string name="allow_permission">Berikan Akses</string>
+    <string name="deny_permission">Tidak</string>
+    <string name="message_alert_network_connectivity">Anda dapat mengisi form lebih cepat kalau anda memiliki internet karena akan ada banyak rekomendasi nama makanan yang diberikan ketika anda mengetik pada formnya!</string>
+    <string name="title_alert_network_connectivity">Apakah anda ingin menyalakan wifi atau paket data?</string>
+    <string name="activate_wifi">Nyalakan Wifi</string>
+    <string name="activate_mobile">Nyalakan Paket Data</string>
+    <string name="cancel">Tidak</string>
+</resources>
